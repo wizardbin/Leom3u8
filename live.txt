@@ -22,5 +22,6 @@ cctv13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8
 TVB娱乐新闻,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 广东珠江,http://171.108.239.91:8181/tsfile/live/1001_1.m3u8
 广东珠江,http://222.218.158.95:8181/tsfile/live/1000_1.m3u8
+广东珠江,http://219.159.194.150:8181/tsfile/live/1000_1.m3u8
 广东珠江,http://120.197.112.28:9901/tsfile/live/1019_1.m3u8
 广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
