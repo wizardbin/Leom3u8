@@ -21,3 +21,4 @@ cctv13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8
 翡翠台2,http://r.jdshipin.com/qClQf
 翡翠台回放,http://r.jdshipin.com/62WM7
 TVB娱乐新闻,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+广东珠江,http://171.108.239.91:8181/tsfile/live/1001_1.m3u8
