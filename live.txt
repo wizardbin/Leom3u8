@@ -1,6 +1,5 @@
 测试,#genre#
 CCTV1 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-广东珠江,https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=2fffb6124109b0ada842241c40706e46-91rTqf%2BtH6olOqSytgUFjWemNKIqxZys0VmQ41diSTHKU0Gg9oHFG3LNiObC4y%2BRAHlY%2BHYhp7lYZwi4ZyvXkaIMHwkMA2%2BxMlhR16gqVrqfN%2BgwZi6EgidBvux9AHdrlYx8cNLzOKe%2B81HL9VfTxyBvY27l86DUHrajFXruaV4REoPdpw%2BdNV3QYIL6AtmnXxfuoylTl7YM%2BTzfS1dmsKXhlg5bKEsTIXMSNq9l2%2F1gf5bH2%2F4sFIs0%2FoMQeqCXeCvIv1T6S9CLhrzasfjiGlLfKuFabWf4wBxluRayG7WOkPhKR7gJpEr0%2Fr1HbztN9PVq6A9v3SEdmHNenZefhwjGZCxBrdfoL5gWnMBNWQNu8kKlBGBpjFmaSZ%2F49nTymP9piaqlyKhUePlBe%2BnOUg%3D%3D
 CCTV5 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 cctv13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8
 无线新闻台,https://i.125011.xyz/tvb.php?id=0&hq
@@ -22,3 +21,5 @@ cctv13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8
 翡翠台回放,http://r.jdshipin.com/62WM7
 TVB娱乐新闻,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 广东珠江,http://171.108.239.91:8181/tsfile/live/1001_1.m3u8
+广东珠江,http://120.197.112.28:9901/tsfile/live/1019_1.m3u8
+广东珠江,
