@@ -20,7 +20,6 @@ cctv13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8
 翡翠台2,http://r.jdshipin.com/qClQf
 翡翠台回放,http://r.jdshipin.com/62WM7
 TVB娱乐新闻,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
-广东珠江,https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=bd892be069c0ac98e9c01010f0b92d0d-HlpLFYDBCab0JXEPQOd0Zxznxcf5NdIKzSNBfWQLIZTOF4Noe0aQpZj3W6OVHB6qzvvtmCm2KYbmMjH4cuI96hitAZe4YMarWfggGNJSHLCcvMx2Bn6Oi0mPo33wbZ0%2Fxx17TE32lTsiaIWSnGLzZzhbWqDV0Skzd4qBU60zlvi3A7RIjlIbslgDhsSqNv7B5mcErazIgQcRlTNKgThY%2BInxwRKB4RisEdfRNnu%2FjjJ0cVau0p1rhtAdAk0EdNXJTa5AaGWiEM8BE4nLGbl6Avoz%2BttaeM%2BM95WGbyDHJRRckglFBuGCHU9%2Fq5XY90sKp2Iv%2Bk7z61VjlKXBAWc%2FTKSeiYG8EZB82dIoU%2FcxMJBsq4OEsOP0ghytO8Ya%2Ff3A%2BSfZEHBx4rp4I1UcSrmzyg%3D%3D
 广东珠江,http://222.218.158.95:8181/tsfile/live/1000_1.m3u8
 广东珠江,http://222.218.158.104:8181/tsfile/live/1000_1.m3u8
 广东珠江,http://219.159.194.150:8181/tsfile/live/1000_1.m3u8
