@@ -1,45 +1,26 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="CCTV1 4M1080" tvg-logo="https://live.fanmingming.com/tv/CCTV1 4M1080.png" group-title="测试",CCTV1 4M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="测试",广东珠江
-https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=2fffb6124109b0ada842241c40706e46-91rTqf%2BtH6olOqSytgUFjWemNKIqxZys0VmQ41diSTHKU0Gg9oHFG3LNiObC4y%2BRAHlY%2BHYhp7lYZwi4ZyvXkaIMHwkMA2%2BxMlhR16gqVrqfN%2BgwZi6EgidBvux9AHdrlYx8cNLzOKe%2B81HL9VfTxyBvY27l86DUHrajFXruaV4REoPdpw%2BdNV3QYIL6AtmnXxfuoylTl7YM%2BTzfS1dmsKXhlg5bKEsTIXMSNq9l2%2F1gf5bH2%2F4sFIs0%2FoMQeqCXeCvIv1T6S9CLhrzasfjiGlLfKuFabWf4wBxluRayG7WOkPhKR7gJpEr0%2Fr1HbztN9PVq6A9v3SEdmHNenZefhwjGZCxBrdfoL5gWnMBNWQNu8kKlBGBpjFmaSZ%2F49nTymP9piaqlyKhUePlBe%2BnOUg%3D%3D
-#EXTINF:-1 tvg-name="CCTV5 4M1080" tvg-logo="https://live.fanmingming.com/tv/CCTV5 4M1080.png" group-title="测试",CCTV5 4M1080
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-name="cctv13" tvg-logo="https://live.fanmingming.com/tv/cctv13.png" group-title="测试",cctv13
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="测试",无线新闻台
-https://i.125011.xyz/tvb.php?id=0&hq
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="测试",无线新闻台
-http://max.freevar.com/news.php?id=0&hq
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="测试",明珠台
-http://r.jdshipin.com/GeWKr?id=mzt720
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="测试",翡翠台
-http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="测试",翡翠台
-http://r.jdshipin.com/GeWKr?id=fct406
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="测试",翡翠台
-http://r.jdshipin.com/GeWKr?id=fct720
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="测试",翡翠台
-http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="测试",翡翠台
-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="测试",翡翠台
-https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="测试",翡翠台
-http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="测试",翡翠台
-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="测试",翡翠台
-https://epg.pw/stream/2462b75c7b128030bbe44787e563be7cfa88943d82316910afb7596f6ace940e.ctv
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="测试",翡翠台
-http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="测试",翡翠台
-http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="测试",翡翠台
-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="测试",翡翠台
-http://r.jdshipin.com/qClQf
-#EXTINF:-1 tvg-name="翡翠台回放" tvg-logo="https://live.fanmingming.com/tv/翡翠台回放.png" group-title="测试",翡翠台回放
-http://r.jdshipin.com/62WM7
-#EXTINF:-1 tvg-name="TVB娱乐新闻" tvg-logo="https://live.fanmingming.com/tv/TVB娱乐新闻.png" group-title="测试",TVB娱乐新闻
-https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+翡翠1,http://www.namewee.xyz/gudou.php?id=1350111122223333444
+翡翠1,http://www.namewee.xyz/gudou.php?id=364&id=1350_4500
+翡翠1,https://epg.pw/stream/d8c93b48b91c1ebf0dba342a788c771416122535649aa71f70dced7b8917817f.m3u8
+翡翠1,https://epg.pw/stream/32e4ae9af65495464449144f8ac46bb0c384b67e3252e757547402d54fb08dc1.m3u8
+翡翠1,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
+翡翠1,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+翡翠1,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+翡翠1,http://162.244.81.145:3333/live/telebostonrtb/playlist.m3u8
+翡翠2,http://210.210.155.37/dr9445/h/h20/index.m3u8
+翡翠2,http://r.jdshipin.com/62WM7
+翡翠2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
+翡翠2,http://r.jdshipin.com/qClQf
+翡翠2,https://epg.pw/stream/1fbab856b95f1ee5eed372ecef4a3c30b658c4e39a73734f0292ce7635ac0248.ctv
+翡翠2,http://r.jdshipin.com/qrfbg
+翡翠2,http://r.jdshipin.com/n90gt
+翡翠2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
+珠江1,http://171.108.239.74:8181/tsfile/live/1001_1.m3u8
+珠江1,http://120.197.112.28:9901/tsfile/live/1019_1.m3u8
+珠江1,http://183.6.110.241:9901/hls/1050/index.m3u8
+珠江1,http://113.68.179.91:4022/udp/239.77.0.3:5146
+珠江1,http://183.6.110.242:9901/hls/1050/index.m3u8
+珠江1,http://113.71.148.79:5555/udp/239.77.0.1:5146
+无线新闻1,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
+无线新闻1,https://epg.pw/stream/c4ed6ad793bc69002f22845063b4b073c5aff6ded2f6cd72c47a6c890de4ad45.ctv
+无线新闻1,https://epg.pw/stream/8a901f8dbc93b286fc53ceceda0a7198f41dfd91a2ca2a528e314aea87eb806b.m3u8
+无线新闻1,http://r.jdshipin.com/CkuBd
