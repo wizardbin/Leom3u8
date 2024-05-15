@@ -1,5 +1,5 @@
-翡翠_11,http://www.namewee.xyz/gudou.php?id=1350
 翡翠_11,http://www.namewee.xyz/gudou.php?id=364&id=1350_4500
+翡翠_11,http://www.namewee.xyz/gudou.php?id=1350
 翡翠_11,https://epg.pw/stream/d8c93b48b91c1ebf0dba342a788c771416122535649aa71f70dced7b8917817f.m3u8
 翡翠_11,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
 翡翠_11,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
@@ -28,9 +28,11 @@
 翡翠_31,http://107.167.12.58:27347/livehttpplay?channel_id=20124J2,http://107.167.12.58:27347/livehttpplay?channel_id=30030
 珠江_11,http://116.11.156.105:1188/tsfile/live/1138_1.m3u8
 珠江_11,http://116.11.156.105:1188/tsfile/live/1138_1.m3u8
+珠江_11,http://120.197.112.28:9901/tsfile/live/1019_1.m3u8
 珠江_11,http://183.6.110.241:9901/hls/1050/index.m3u8
 珠江_11,http://219.159.194.120:8181/tsfile/live/1000_1.m3u8
 珠江_11,http://183.6.110.242:9901/hls/1050/index.m3u8
+珠江_21,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
 珠江_21,http://219.135.208.218:8083/tsfile/live/0017_1.m3u8
 珠江_21,http://183.11.239.36:808/hls/83/index.m3u8
 珠江_31,http://gmxw.7766.org:808/hls/83/index.m3u8
@@ -47,6 +49,7 @@
 无线新闻_21,http://107.167.12.58:27347/livehttpplay?channel_id=30024
 无线新闻_21,https://epg.pw/stream/19d1cd44fca23238190d5ada7b08552382bf391f77d6b4348f3e3ae56afe7c9f.m3u8
 无线新闻_21,https://epg.pw/stream/9f9c79730061c3a008b1b10bedcf7eca7d2622abb3f1e67f56170cb6ac31cd7c.ctv
+无线新闻_21,https://epg.pw/stream/7a92efcc03038ae4c87f282eaabe2f8a51b1e4b93e5f9f67cfca15381583a8ba.ctv
 无线新闻_21,http://107.167.12.58:27347/livehttpplay?channel_id=20123
 无线新闻_31,https://ktpremium.com:443/K3939/6757/492389
 无线新闻_31,http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
