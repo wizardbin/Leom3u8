@@ -1,4 +1,20 @@
 测试,#genre#
+无线新闻_11,http://live.cooltv.top/tv/tvb.php?id=0&hq
+无线新闻_11,http://live.cooltv.top/tv/tvb.php?id=0
+无线新闻_11,https://epg.pw/stream/8a901f8dbc93b286fc53ceceda0a7198f41dfd91a2ca2a528e314aea87eb806b.m3u8
+无线新闻_11,https://epg.pw/stream/c4ed6ad793bc69002f22845063b4b073c5aff6ded2f6cd72c47a6c890de4ad45.ctv
+无线新闻_11,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
+无线新闻_11,https://skype.serv00.net/tvb.php?id=0&hq
+无线新闻_11,https://nothingbe.serv00.net/tvb.php?id=C&type=hd
+无线新闻_11,http://www.nettvpro.live/hls/tvb.php?id=1
+无线新闻_21,https://epg.pw/stream/9eba5b8c19187b49a71080ebc17c848c15a04a9b099e571d376374d8ab99f3cf.ctv
+无线新闻_21,http://free.xiptv.x10.bz/kudou.php?id=2
+无线新闻_21,https://epg.pw/stream/7a92efcc03038ae4c87f282eaabe2f8a51b1e4b93e5f9f67cfca15381583a8ba.ctv
+无线新闻_21,https://epg.pw/stream/19d1cd44fca23238190d5ada7b08552382bf391f77d6b4348f3e3ae56afe7c9f.m3u8
+无线新闻_31,https://epg.pw/stream/19d1cd44fca23238190d5ada7b08552382bf391f77d6b4348f3e3ae56afe7c9f.m3u8
+无线新闻_31,https://epg.pw/stream/9f9c79730061c3a008b1b10bedcf7eca7d2622abb3f1e67f56170cb6ac31cd7c.ctv
+无线新闻_31,http://awei.beimua.com/yes.php?id=13
+无线新闻_31,http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
 tvb plus_11,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
 tvb plus_11,http://zsntlqj.xicp.net:8896/bysid/82.m3u8
 tvb plus_11,http://61.238.177.254:30261/stream/channelid/112716350
