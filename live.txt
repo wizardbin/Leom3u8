@@ -102,7 +102,7 @@ macau_12,http://fuzzyunicorns.net:80/live/uFbrK9uUN/81qh5S2aF/761283.ts
 澳視_21,http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
 澳視_21,http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
 翡翠台1,http://www.namewee.xyz/gudou.php?id=364&id=1350_4500
-翡翠台1,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+翡翠台1,http://www.namewee.xyz/gudou.php?id=1350
 翡翠台1,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 翡翠台1,http://r.jdshipin.com/GeWKr?id=fct406
 翡翠台1,http://r.jdshipin.com/GeWKr?id=fct720
