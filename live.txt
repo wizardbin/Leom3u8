@@ -41,7 +41,6 @@
 翡翠_31,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
 翡翠_31,http://107.167.12.58:27347/livehttpplay?channel_id=20127
 翡翠_31,http://107.167.12.58:27347/livehttpplay?channel_id=30025
-翡翠台回放,http://r.jdshipin.com/62WM7
 TVB娱乐新闻,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 广东珠江_11,http://183.6.110.242:9901/hls/1050/index.m3u8
 广东珠江_11,http://113.101.119.55:8090/hls/105/index.m3u8
