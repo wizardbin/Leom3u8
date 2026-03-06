@@ -13,6 +13,10 @@
 翡翠台2,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 翡翠台2,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡翠台2,http://r.jdshipin.com/qClQf
+翡翠台3,https://hls.iill.top/api/TVB-Jade/index.m3u8
+翡翠台3,http://74.91.26.218:82/live/jade.m3u8
+翡翠台3,http://rihou.cc:555/tv/[SX]无线翡翠
+翡翠台3,http://o11.163189.xyz/stream/tvb/fct/
 翡翠_11,http://113.83.152.56:8182/bynumber/1
 翡翠_11,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
 翡翠_11,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
